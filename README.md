@@ -1,0 +1,1 @@
+# singleton-cdi-main
